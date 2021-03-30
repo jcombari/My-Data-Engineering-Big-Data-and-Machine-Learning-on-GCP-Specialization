@@ -1,5 +1,7 @@
 # My-Data-Engineering-Big-Data-and-Machine-Learning-on-GCP-Specialization
 
+This program provides the skills you need to advance your career and provides training to support your preparation for the industry-recognized Google Cloud Professional Data Engineer certification.
+
 https://www.coursera.org/specializations/gcp-data-machine-learning
 
 1. [Google Cloud Platform Big Data and Machine Learning Fundamentals](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals?specialization=gcp-data-machine-learning)
