@@ -1,4 +1,4 @@
-# My-Data-Engineering-Big-Data-and-Machine-Learning-on-GCP-Specialization
+# My-Data-Engineering-Big-Data-and-Machine-Learning-on-GCP-Sphttps://www.coursera.org/learn/streaming-analytics-systems-gcp?specialization=gcp-data-machine-learning)ecialization
 
 https://www.coursera.org/specializations/gcp-data-machine-learning
 
@@ -7,3 +7,4 @@ https://www.coursera.org/specializations/gcp-data-machine-learning
 2.- [Modernizing Data Lakes and Data Warehouses with GCP](https://www.coursera.org/learn/data-lakes-data-warehouses-gcp?specialization=gcp-data-machine-learning)
 
 3.- [Building Batch Data Pipelines on GCP](https://www.coursera.org/learn/batch-data-pipelines-gcp?specialization=gcp-data-machine-learning)
+4. [Building Resilient Streaming Analytics Systems on GCP] (https://www.coursera.org/learn/streaming-analytics-systems-gcp?specialization=gcp-data-machine-learning)
