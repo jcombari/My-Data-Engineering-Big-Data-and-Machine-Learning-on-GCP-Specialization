@@ -1,4 +1,4 @@
-# My-Data-Engineering-Big-Data-and-Machine-Learning-on-GCP-Sphttps://www.coursera.org/learn/streaming-analytics-systems-gcp?specialization=gcp-data-machine-learning)ecialization
+# My-Data-Engineering-Big-Data-and-Machine-Learning-on-GCP-Specialization
 
 https://www.coursera.org/specializations/gcp-data-machine-learning
 
