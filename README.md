@@ -4,6 +4,8 @@ This program provides the skills you need to advance your career and provides tr
 
 https://www.coursera.org/specializations/gcp-data-machine-learning
 
+Here's what you have to do
+
 1. [Google Cloud Platform Big Data and Machine Learning Fundamentals](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals?specialization=gcp-data-machine-learning)
 
 2. [Modernizing Data Lakes and Data Warehouses with GCP](https://www.coursera.org/learn/data-lakes-data-warehouses-gcp?specialization=gcp-data-machine-learning)
